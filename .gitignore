@@ -1,0 +1,45 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures can get large
+[Mm]emoryCaptures/
+
+# Asset meta data should be versioned, but crash/temp files should not
+sysinfo.txt
+*.stackdump
+
+# Visual Studio / Rider / IDE files
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity auto-generated package manager files that may be local-only
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports
+crashlytics-build.properties
