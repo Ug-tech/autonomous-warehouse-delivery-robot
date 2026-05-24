@@ -44,46 +44,6 @@ flowchart LR
     F --> B
 ```
 
-## Suggested Repository Structure
-
-```text
-Assets/
-  Scenes/
-    WarehouseSimulation.unity
-  Scripts/
-    Robot/
-      RobotController.cs
-      RobotStateMachine.cs
-      RobotNavigation.cs
-    Tasks/
-      DeliveryTask.cs
-      TaskManager.cs
-    UI/
-      TelemetryPanel.cs
-  Prefabs/
-    Robot.prefab
-    Shelf.prefab
-    PickupStation.prefab
-    DropoffZone.prefab
-  Materials/
-  Art/
-Docs/
-  architecture.md
-  screenshots/
-README.md
-```
-
-## Planned Screenshots and Demo
-
-Add these once the Unity scene is ready:
-
-- Full warehouse layout
-- Robot navigating an aisle
-- Pickup task in progress
-- Drop-off completion
-- Telemetry UI during a delivery
-- Short demo video or GIF
-
 ## Learning Outcomes
 
 This project demonstrates:
